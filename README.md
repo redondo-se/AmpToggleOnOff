@@ -1,2 +1,2 @@
 # AmpToggleOnOff
-Windows app to monitor audio device output levels and trigger a 12v USB relay when sound is being output.
+Windows app to monitor audio device output levels and trigger a USB relay when sound is being output.
